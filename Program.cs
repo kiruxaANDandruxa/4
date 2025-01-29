@@ -3,6 +3,8 @@ using System;
 using System.Buffers;
 using System.Data;
 
+///Кротов П23-2.2
+
 namespace Calculator2
 {
     class Program
